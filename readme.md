@@ -122,6 +122,3 @@ python3 main.py
 4. Incorporate additional sensors for depth and temperature measurements.
 
 ---
-
-Feel free to explore, modify, and contribute to the project. If you encounter any issues or have suggestions, please open an issue or submit a pull request!
-
